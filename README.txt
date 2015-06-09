@@ -9,3 +9,4 @@ Pushing is easy!
 Feature2
 Feature2 additional
 Feature1
+Some fixes for v1.0
